@@ -1,4 +1,3 @@
-### Illusion
 ## Languages / Skills
 C/C++  
 Javascript [ Node, React-Native ]  
