@@ -23,6 +23,10 @@
 - ###### Illusi-Desktop (Desktop Universal Music App)
     ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 #### Finished/Hiatus Projects:
+- ###### lib-origin-public-archives (OUTDATED)
+    - [lib-origin-legacy](https://github.com/Illusion137/lib-origin-legacy) (Multi-Site Scraper + Illusive Engine Universal Music Scraper)
+    - [origin-m-youtube](https://github.com/Illusion137/origin-m-youtube) (YouTube Mobile Scraper)
+    - [gomovies](https://github.com/Illusion137/gomovies) (Gomovies Scraper)
 - ###### [Film & TV VLC Portfolio](https://illusi.dev)
     ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MUX](https://img.shields.io/badge/MUX-8A2BE2)
 - ###### [FRC Robotics 2021-2025](https://github.com/Buena-Robotics)
