@@ -1,6 +1,6 @@
 ```
                    #%++++*=                                         Daniel Raygoza          
-                   %@+++++@                                         Sophmore at Northern Arizona University                                         
+                   %@+++++@                                         Junior at Northern Arizona University                                         
                    #@+++++*%                                        "If it doesn't exist in this world, I'll just have to make it myself."               
                    *@++++**#:                       :=*##***@@@@:                  
                    *@*++****@           .:=+*#%#*===+*#%%%=.+*      Specialized in TypeScript and C++ and I work heavily in Node.js and React Native.               
